@@ -1,0 +1,55 @@
+.cover {
+    height: 80px;
+    background-image: url(imgs/coverImage2.png);
+    background-size: cover;
+    background-position: center;
+    color:white;
+    font-family: 'Pacifico', cursive;
+}
+
+.nav {
+    background-color: rgb(101, 138, 101);
+}
+
+.nav-link{
+    color: black;
+    background-color: white;
+    margin-right: 5rem;
+    margin-left: 5rem;
+    border-width:4px ;
+    border-style: solid;
+    border-color:black;
+    width: 50px;
+}
+
+.left-part{
+    background-color:rgb(189, 205, 189);
+
+}
+
+.main{
+    background-color: rgb(191, 245, 227);
+    size: 100%;
+}
+
+.section-left {
+    width: 20%;
+    height: 100%;
+
+}
+.section-central {
+    background: white;
+    width: 60%;
+    height: 100%;
+
+}
+.section-right {
+    width: 20%;
+    height: 100%;
+
+}
+
+img{
+    max-width: 70%;
+    max-height: 30rem;
+}
